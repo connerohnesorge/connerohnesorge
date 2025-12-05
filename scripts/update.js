@@ -203,6 +203,12 @@ const data = [
       {
         kind: "repo",
         user: "connerohnesorge",
+        repo: "conclaude",
+        description: "The guardrails your Claude Code sessions need",
+      },
+      {
+        kind: "repo",
+        user: "connerohnesorge",
         repo: "wrtype",
         description: "Implementation of wtype in Rust",
       },
