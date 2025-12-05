@@ -123,6 +123,23 @@
 <a href="https://github.com/connerohnesorge/templar#gh-light-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-templar-light.svg#gh-light-mode-only" alt="templar: Rapid prototyping for templ components"></a>
 &nbsp;
 </div><div float="left">
+<a href="https://github.com/connerohnesorge/wrtype#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-wrtype-dark.svg#gh-dark-mode-only" alt="wrtype: Implementation of wtype in Rust"></a>
+<a href="https://github.com/connerohnesorge/wrtype#gh-light-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-wrtype-light.svg#gh-light-mode-only" alt="wrtype: Implementation of wtype in Rust"></a>
+&nbsp;
+<a href="https://github.com/connerohnesorge/wztype#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-wztype-dark.svg#gh-dark-mode-only" alt="wztype: xdotool type CLI and library in Zig"></a>
+<a href="https://github.com/connerohnesorge/wztype#gh-light-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-wztype-light.svg#gh-light-mode-only" alt="wztype: xdotool type CLI and library in Zig"></a>
+&nbsp;
+</div><div float="left">
+<a href="https://github.com/connerohnesorge/mcp-zig#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-mcp-zig-dark.svg#gh-dark-mode-only" alt="mcp-zig: Model Context Protocol library for Zig"></a>
+<a href="https://github.com/connerohnesorge/mcp-zig#gh-light-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-mcp-zig-light.svg#gh-light-mode-only" alt="mcp-zig: Model Context Protocol library for Zig"></a>
+&nbsp;
+<a href="https://github.com/connerohnesorge/sqlcquash#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-sqlcquash-dark.svg#gh-dark-mode-only" alt="sqlcquash: Squashes SQL schema, query, and seed files into singular files"></a>
+<a href="https://github.com/connerohnesorge/sqlcquash#gh-light-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-sqlcquash-light.svg#gh-light-mode-only" alt="sqlcquash: Squashes SQL schema, query, and seed files into singular files"></a>
+&nbsp;
+</div><div float="left">
+<a href="https://github.com/connerohnesorge/templar#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-templar-dark.svg#gh-dark-mode-only" alt="templar: Rapid prototyping for templ components"></a>
+<a href="https://github.com/connerohnesorge/templar#gh-light-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-templar-light.svg#gh-light-mode-only" alt="templar: Rapid prototyping for templ components"></a>
+&nbsp;
 <a href="https://github.com/connerohnesorge/twerge#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-twerge-dark.svg#gh-dark-mode-only" alt="twerge: Generates class names and static sources for golang templ programs"></a>
 <a href="https://github.com/connerohnesorge/twerge#gh-light-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-twerge-light.svg#gh-light-mode-only" alt="twerge: Generates class names and static sources for golang templ programs"></a>
 &nbsp;
