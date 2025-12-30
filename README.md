@@ -102,6 +102,9 @@
 ### CLI Tools
 
 <div float="left">
+<a href="https://github.com/connerohnesorge/conclaude#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-conclaude-dark.svg#gh-dark-mode-only" alt="conclaude: The guardrails your Claude Code sessions need"></a>
+<a href="https://github.com/connerohnesorge/conclaude#gh-light-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-conclaude-light.svg#gh-light-mode-only" alt="conclaude: The guardrails your Claude Code sessions need"></a>
+&nbsp;
 <a href="https://github.com/connerohnesorge/wrtype#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-wrtype-dark.svg#gh-dark-mode-only" alt="wrtype: Implementation of wtype in Rust"></a>
 <a href="https://github.com/connerohnesorge/wrtype#gh-light-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-wrtype-light.svg#gh-light-mode-only" alt="wrtype: Implementation of wtype in Rust"></a>
 &nbsp;
