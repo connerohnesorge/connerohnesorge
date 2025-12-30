@@ -43,6 +43,9 @@
 <a href="https://github.com/connerohnesorge/bufrnix#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-bufrnix-dark.svg#gh-dark-mode-only" alt="bufrnix: Nix powered Protocol Buffers with declarative code generation"></a>
 <a href="https://github.com/connerohnesorge/bufrnix#gh-light-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-bufrnix-light.svg#gh-light-mode-only" alt="bufrnix: Nix powered Protocol Buffers with declarative code generation"></a>
 &nbsp;
+<a href="https://github.com/connerohnesorge/archil-flake#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-archil-flake-dark.svg#gh-dark-mode-only" alt="archil-flake: Nix Flake for Archil"></a>
+<a href="https://github.com/connerohnesorge/archil-flake#gh-light-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-archil-flake-light.svg#gh-light-mode-only" alt="archil-flake: Nix Flake for Archil"></a>
+&nbsp;
 </div>
 
 ### Hardware/Embedded
