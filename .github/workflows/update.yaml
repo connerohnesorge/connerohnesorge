@@ -8,6 +8,8 @@ on:
     - cron: "*/30 * * * *"
 jobs:
   update:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
