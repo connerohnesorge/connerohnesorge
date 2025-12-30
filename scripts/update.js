@@ -104,6 +104,12 @@ const data = [
         repo: "bufrnix",
         description: "Nix powered Protocol Buffers with declarative code generation",
       },
+      {
+        kind: "repo",
+        user: "connerohnesorge",
+        repo: "archil-flake",
+        description: "Nix Flake for Archil",
+      },
     ],
   },
   {
