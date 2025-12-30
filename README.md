@@ -97,6 +97,10 @@
 <a href="https://github.com/connerohnesorge/groqmit#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-groqmit-dark.svg#gh-dark-mode-only" alt="groqmit: Fast AI generated commits"></a>
 <a href="https://github.com/connerohnesorge/groqmit#gh-light-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-groqmit-light.svg#gh-light-mode-only" alt="groqmit: Fast AI generated commits"></a>
 &nbsp;
+</div><div float="left">
+<a href="https://github.com/connerohnesorge/conclaude#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-conclaude-dark.svg#gh-dark-mode-only" alt="conclaude: Safely constrain and conclude your claude code sessions"></a>
+<a href="https://github.com/connerohnesorge/conclaude#gh-light-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-conclaude-light.svg#gh-light-mode-only" alt="conclaude: Safely constrain and conclude your claude code sessions"></a>
+&nbsp;
 </div>
 
 ### CLI Tools

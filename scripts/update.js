@@ -194,6 +194,12 @@ const data = [
         repo: "groqmit",
         description: "Fast AI generated commits",
       },
+      {
+        kind: "repo",
+        user: "connerohnesorge",
+        repo: "conclaude",
+        description: "Safely constrain and conclude your claude code sessions",
+      },
     ],
   },
   {
