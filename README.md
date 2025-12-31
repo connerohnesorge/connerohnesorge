@@ -21,6 +21,10 @@
 <a href="https://github.com/connerohnesorge/gpt2#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-gpt2-dark.svg#gh-dark-mode-only" alt="gpt2: A golang implementation of GPT-2 using the standard library"></a>
 <a href="https://github.com/connerohnesorge/gpt2#gh-light-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-gpt2-light.svg#gh-light-mode-only" alt="gpt2: A golang implementation of GPT-2 using the standard library"></a>
 &nbsp;
+</div><div float="left">
+<a href="https://github.com/connerohnesorge/mathpix-go#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-mathpix-go-dark.svg#gh-dark-mode-only" alt="mathpix-go: Go client library for the Mathpix OCR API"></a>
+<a href="https://github.com/connerohnesorge/mathpix-go#gh-light-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-mathpix-go-light.svg#gh-light-mode-only" alt="mathpix-go: Go client library for the Mathpix OCR API"></a>
+&nbsp;
 </div>
 
 ### Nix Flakes

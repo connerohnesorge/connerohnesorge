@@ -68,6 +68,12 @@ const data = [
         repo: "gpt2",
         description: "A golang implementation of GPT-2 using the standard library",
       },
+      {
+        kind: "repo",
+        user: "connerohnesorge",
+        repo: "mathpix-go",
+        description: "Go client library for the Mathpix OCR API",
+      },
     ],
   },
   {
