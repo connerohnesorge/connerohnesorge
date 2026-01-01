@@ -25,6 +25,9 @@
 <a href="https://github.com/connerohnesorge/mathpix-go#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-mathpix-go-dark.svg#gh-dark-mode-only" alt="mathpix-go: Go client library for the Mathpix OCR API"></a>
 <a href="https://github.com/connerohnesorge/mathpix-go#gh-light-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-mathpix-go-light.svg#gh-light-mode-only" alt="mathpix-go: Go client library for the Mathpix OCR API"></a>
 &nbsp;
+<a href="https://github.com/connerohnesorge/lzma-go#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-lzma-go-dark.svg#gh-dark-mode-only" alt="lzma-go: Native Go implementation of LZMA compression algorithm"></a>
+<a href="https://github.com/connerohnesorge/lzma-go#gh-light-mode-only"><img src="https://raw.githubusercontent.com/connerohnesorge/connerohnesorge/main/assets/connerohnesorge-lzma-go-light.svg#gh-light-mode-only" alt="lzma-go: Native Go implementation of LZMA compression algorithm"></a>
+&nbsp;
 </div>
 
 ### Nix Flakes

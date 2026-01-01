@@ -74,6 +74,12 @@ const data = [
         repo: "mathpix-go",
         description: "Go client library for the Mathpix OCR API",
       },
+      {
+        kind: "repo",
+        user: "connerohnesorge",
+        repo: "lzma-go",
+        description: "Native Go implementation of LZMA compression algorithm",
+      },
     ],
   },
   {
