@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">connerohnesorge's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 401, Total Commits in 2026 : 401, Total PRs: 1455, Total Issues: 631, Contributed to (last year): 29</desc>
+        <desc id="descId">Total Stars Earned: 401, Total Commits in 2026 : 401, Total PRs: 1454, Total Issues: 631, Contributed to (last year): 29</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 15.820686124274033;
+        stroke-dashoffset: 15.820688098873998;
       }
     }
   
